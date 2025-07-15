@@ -1,0 +1,5 @@
+{
+  "name": "Gemini E-Commerce Frontend",
+  "description": "A simple e-commerce frontend application that uses Gemini to generate product data. It fulfills requirements like product listing, cart management, order creation simulation, and role-based access control (Customer/Admin).",
+  "requestFramePermissions": []
+}
